@@ -1,5 +1,9 @@
 # BrewApps
-test for interview
+
+to start app- node index--- start the app
+
+
+Test for interview
 endpints
 #Get All books
 endpoint "/" get reqest
