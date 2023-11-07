@@ -6,17 +6,17 @@ to start app- node index--- start the app
 Test for interview
 endpints
 #Get All books
-endpoint "/" get request
+endpoint "http://localhost:8080/" get request
 #Add book
-endpoint "/" post request
+endpoint "http://localhost:8080/" post request
 {name:"test", author:"new test author"}
 #update book
-endpoint "/" patch request
+endpoint "http://localhost:8080/" patch request
 {name:"test", author:"new test author",_id:"654a0edcd641ec130252ab60}
 #delete book
-endpoint "/" delete request
+endpoint "http://localhost:8080/" delete request
 {_id:"654a0edcd641ec130252ab60}
 #get book by id
-endpoint "/654a0edcd641ec130252ab60" get request
+endpoint "http://localhost:8080/654a0edcd641ec130252ab60" get request
 
 
