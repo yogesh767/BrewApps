@@ -1,0 +1,24 @@
+{
+  "name": "bookmanagingapp",
+  "version": "1.0.0",
+  "description": "manage books in app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh767/BrewApps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh767/BrewApps/issues"
+  },
+  "homepage": "https://github.com/yogesh767/BrewApps#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0"
+  }
+}
